@@ -16,5 +16,11 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF"
+  "theme_color": "#FFFFFF",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "app.modus.beep"
+    }
+  ]
 }
